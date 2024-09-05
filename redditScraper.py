@@ -1,1 +1,1 @@
-# scrape reddit for hoghly upvoted posts
+# scrape reddit for highly upvoted posts
